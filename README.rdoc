@@ -41,7 +41,7 @@ Inspired by the EAN gem by Pascal Belloncle (nano RAILS)
 
 (The MIT License)
 
-Copyright (c) 2010 Hans C. Masing & Dragonfly Depot, LLC
+Copyright (c) 2010 Hans C. Masing & Sensible Geek, LLC
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
