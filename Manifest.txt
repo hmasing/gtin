@@ -1,9 +1,10 @@
 History.txt
-Manifest.txt
-PostInstall.txt
-README.rdoc
-Rakefile
 lib/gtin.rb
+lib/gtin/gtin.rb
+lib/gtin/version.rb
+Manifest.txt
+Rakefile
+README.rdoc
 script/console
 script/destroy
 script/generate
